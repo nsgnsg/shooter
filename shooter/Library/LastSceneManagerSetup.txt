@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Hogan\xB4s Alley/Main Scene.unity"
+  isLoaded: 1
+  isActive: 1
